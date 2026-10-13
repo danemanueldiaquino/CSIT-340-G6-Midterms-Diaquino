@@ -6,9 +6,9 @@ export default function PlanPicker({ seats, months, handleAddSeat, handleAddMont
         <p className="mt-4 text-3xl text-[#CB2957]">
           Seats: {seats} | Months: {months}
         </p>
-        <p className="mt-2 text-xl">Quote for YOUR NAME</p>
+        <p className="mt-2 text-xl">Quote for Dan Emanuel T. Diaquino</p>
       </header>
-
+      
       <div className="flex gap-4">
         <button
           className="cursor-pointer rounded-lg bg-[#CB2957] px-8 py-3 text-xl font-bold text-[#EEEEEE]"
